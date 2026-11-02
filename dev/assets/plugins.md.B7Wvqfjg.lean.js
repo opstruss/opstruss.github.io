@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as i,a3 as a}from"./chunks/framework.D1GAkLkK.js";const u=JSON.parse('{"title":"Plugins","description":"","frontmatter":{},"headers":[],"relativePath":"plugins.md","filePath":"plugins.md"}'),n={name:"plugins.md"};function o(l,s,p,h,r,d){return t(),i("div",null,[...s[0]||(s[0]=[a("",6)])])}const k=e(n,[["render",o]]);export{u as __pageData,k as default};
