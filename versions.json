@@ -1,5 +1,10 @@
 [
   {
+    "version": "v1.0.x",
+    "title": "v1.0.x (latest)",
+    "path": "/v1.0/"
+  },
+  {
     "version": "dev",
     "title": "dev",
     "path": "/dev/"
